@@ -1,0 +1,16 @@
+{
+  "author": "",
+  "name": "pagedown-bootstrap",
+  "description": "Markdown (pagedown) processor for node and bootstrap",
+  "version": "0.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mgutz/pagedown-bootstrap.git"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
